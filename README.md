@@ -1,2 +1,2 @@
 # agentic
-My LLM agent built from scratch
+My agentic workflow explorations and warmups
